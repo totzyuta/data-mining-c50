@@ -1,0 +1,19 @@
+| POPULAR SMARTPHONE DATABASE ATTRIBUTES
+
+popular.    | popular, non-popular classes
+
+maker:                    sony, huawei, kyocera, sumgsun, sharp, google.
+color_variety:            continuous.
+career:                   docomo, au, free.
+max_waiting_duration_3g:  continuous.   
+max_waiting_duration_lte: continuous.
+memory_ram:             continuous. | GB
+memory_rom:             continuous. | GB
+core_number:            4,8.        | octo and quad
+battery:                continuous. | mAh
+display_size:           continuous. | inch
+max_down_speed:         continuous. | Mbps
+camera_pixel_number:    continuous.
+weight:                 continuous. | g
+
+popular:                1, 0.

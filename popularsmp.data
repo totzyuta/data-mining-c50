@@ -1,10 +1,10 @@
-sony,4,docomo,480,470,3,32,8,2930,5.2,225,2070,144,1           | Xperia Z4 SO-03 docomo
-huawei,3,free,500,450,2,16,8,2200,5.0,150,1300,131,1           | P8lite SIM Free
-sony,4,au,460,460,3,32,8,2930,5.2,225,2070,144,1               | Xperia Z4 SOV31 au
-sony,4,docomo,750,640,3,32,4,3100,5.2,150,2070,152,1           | Xperia Z3 SO-01 docomo
-sony,4,docomo,800,650,2,16,4,2600,4.6,150,2070,129,1           | Xperia Z3 Compact SO-02G docomo
-kyocera,2,au,810,700,2,16,4,3100,4.5,150,800,182,1             | TORQUE G01 au 
-sumgsun,2,docomo,470,430,3,32,4,3000,5.6,150,1600,177,0        | GALAXY Note Edge SC-01G docomo
-sony,3,docomo,740,610,2,32,4,3000,5.0,150,2070,171,0           | Xperia Z1 SO-01F docomo
-sharp,333,docomo,700,580,2,32,4,3000,5.0,150,1630,139,0        | AQUOS PHONE ZETA SH-01F docomo
-google,2,free,?,330,3,32,4,3220,5.9,?,1300,184,0               | Nexus 6 32GB SIM Free
+sony,   4,docomo,480,470,3,32,8,2930,5.2,225,2070,144,1           | Xperia Z4 SO-03 docomo
+huawei, 3,free,  500,450,2,16,8,2200,5.0,150,1300,131,1           | P8lite SIM Free
+sony,   4,au,    460,460,3,32,8,2930,5.2,225,2070,144,1           | Xperia Z4 SOV31 au
+sony,   4,docomo,750,640,3,32,4,3100,5.2,150,2070,152,1           | Xperia Z3 SO-01 docomo
+sony,   4,docomo,800,650,2,16,4,2600,4.6,150,2070,129,1           | Xperia Z3 Compact SO-02G docomo
+kyocera,2,au,    810,700,2,16,4,3100,4.5,150,800, 182,1           | TORQUE G01 au
+sumgsun,2,docomo,470,430,3,32,4,3000,5.6,150,1600,177,0           | GALAXY Note Edge SC-01G docomo
+sony,   3,docomo,740,610,2,32,4,3000,5.0,150,2070,171,0           | Xperia Z1 SO-01F docomo
+sharp,  3,docomo,700,580,2,32,4,3000,5.0,150,1630,139,0           | AQUOS PHONE ZETA SH-01F docomo
+google, 2,free,  ?,  330,3,32,4,3220,5.9,?,  1300,184,0           | Nexus 6 32GB SIM Free

@@ -2,7 +2,7 @@
 
 popular.    | popular, non-popular classes
 
-maker:                    sony, huawei, kyocera, sumgsun, sharp, google.
+maker:                    sony, huawei, kyocera, sumgsun, sharp, google, asus, htc.
 color_variety:            continuous.
 career:                   docomo, au, free.
 max_waiting_duration_3g:  continuous.   
